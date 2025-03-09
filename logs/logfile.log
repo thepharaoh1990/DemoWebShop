@@ -1,0 +1,341 @@
+| 2025-03-08 22:39:25 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse--1210791706\testng-customsuite.xml"
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse--1210791706\testng-customsuite.xml
+
+| 2025-03-08 22:39:25 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+| 2025-03-08 22:39:25 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 22:39:25 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 22:39:25 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 22:39:32 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 22:39:32 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 22:39:32 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@5f780a86: 41 ms
+| 2025-03-08 22:39:32 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@446c3920: 1 ms
+| 2025-03-08 22:39:32 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@34fe326d: 6 ms
+| 2025-03-08 22:39:32 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@47b179d7: 5 ms
+| 2025-03-08 22:39:32 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@363a3d15: 4 ms
+| 2025-03-08 22:39:32 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@173f73e7: 0 ms
+| 2025-03-08 22:40:10 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse-1011010599\testng-customsuite.xml"
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse-1011010599\testng-customsuite.xml
+
+| 2025-03-08 22:40:10 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+| 2025-03-08 22:40:10 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 22:40:10 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 22:40:10 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 22:40:17 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 22:40:18 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 22:40:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@53dad875: 43 ms
+| 2025-03-08 22:40:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@5f780a86: 0 ms
+| 2025-03-08 22:40:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@45d64d27: 7 ms
+| 2025-03-08 22:40:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6940f685: 6 ms
+| 2025-03-08 22:40:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46d567cb: 4 ms
+| 2025-03-08 22:40:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@363a3d15: 0 ms
+| 2025-03-08 22:43:54 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse--1640280098\testng-customsuite.xml"
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse--1640280098\testng-customsuite.xml
+
+| 2025-03-08 22:43:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+| 2025-03-08 22:43:54 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 22:43:54 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 22:43:54 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 22:44:02 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 22:44:02 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 22:44:02 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@2b329bbd: 46 ms
+| 2025-03-08 22:44:02 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@34819867: 1 ms
+| 2025-03-08 22:44:02 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@41fed14f: 8 ms
+| 2025-03-08 22:44:02 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@783115d9: 10 ms
+| 2025-03-08 22:44:02 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2e23c180: 4 ms
+| 2025-03-08 22:44:02 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@499683c4: 0 ms
+| 2025-03-08 22:49:55 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse--996457270\testng-customsuite.xml"
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse--996457270\testng-customsuite.xml
+
+| 2025-03-08 22:49:55 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+| 2025-03-08 22:49:55 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 22:49:55 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 22:49:55 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 22:50:02 | INFO  | [main] pageObjects.HomePage (HomePage.java:59) - Link isn't empty, will click: Register
+Log in
+Shopping cart
+(0)
+Wishlist
+(0)
+| 2025-03-08 22:50:08 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 22:50:08 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 22:50:08 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@27ace0b1: 37 ms
+| 2025-03-08 22:50:08 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@664e5dee: 1 ms
+| 2025-03-08 22:50:08 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@43f61afb: 7 ms
+| 2025-03-08 22:50:08 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@36ddaebf: 5 ms
+| 2025-03-08 22:50:08 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bbb49b0: 3 ms
+| 2025-03-08 22:50:08 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f096f37: 0 ms
+| 2025-03-08 22:52:18 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse-992476716\testng-customsuite.xml"
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse-992476716\testng-customsuite.xml
+
+| 2025-03-08 22:52:18 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+| 2025-03-08 22:52:18 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 22:52:18 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 22:52:18 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 22:52:26 | INFO  | [main] pageObjects.HomePage (HomePage.java:59) - Link isn't empty, will click: Register
+Log in
+Shopping cart
+(0)
+Wishlist
+(0)
+| 2025-03-08 22:52:31 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 22:52:31 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 22:52:31 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@27ace0b1: 44 ms
+| 2025-03-08 22:52:31 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@664e5dee: 1 ms
+| 2025-03-08 22:52:31 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@43f61afb: 6 ms
+| 2025-03-08 22:52:31 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@36ddaebf: 6 ms
+| 2025-03-08 22:52:31 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bbb49b0: 4 ms
+| 2025-03-08 22:52:31 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f096f37: 0 ms
+| 2025-03-08 22:53:36 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse-950477789\testng-customsuite.xml"
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:36 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse-950477789\testng-customsuite.xml
+
+| 2025-03-08 22:53:37 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+| 2025-03-08 22:53:37 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 22:53:37 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 22:53:37 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 22:53:45 | INFO  | [main] pageObjects.HomePage (HomePage.java:59) - Link isn't empty, will click: Register
+| 2025-03-08 22:53:50 | INFO  | [main] pageObjects.HomePage (HomePage.java:59) - Link isn't empty, will click: Log in
+| 2025-03-08 22:53:55 | INFO  | [main] pageObjects.HomePage (HomePage.java:59) - Link isn't empty, will click: Shopping cart
+(0)
+| 2025-03-08 22:54:00 | INFO  | [main] pageObjects.HomePage (HomePage.java:59) - Link isn't empty, will click: Wishlist
+(0)
+| 2025-03-08 22:54:06 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 22:54:06 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 22:54:06 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@27a97e08: 45 ms
+| 2025-03-08 22:54:06 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@77e7246b: 1 ms
+| 2025-03-08 22:54:06 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@b25b095: 10 ms
+| 2025-03-08 22:54:06 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5496c165: 7 ms
+| 2025-03-08 22:54:06 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@50d951e7: 3 ms
+| 2025-03-08 22:54:06 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@39ad12b6: 0 ms
+| 2025-03-08 23:09:53 | DEBUG | [main] log4testng.Logger (Logger.java:82) - suiteXmlPath: "C:\Users\minae\AppData\Local\Temp\testng-eclipse-595914447\testng-customsuite.xml"
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Running:
+  C:\Users\minae\AppData\Local\Temp\testng-eclipse-595914447\testng-customsuite.xml
+
+| 2025-03-08 23:09:54 | INFO  | [main] log4testng.Logger (Logger.java:112) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+| 2025-03-08 23:09:54 | INFO  | [main] testBase.TestPrep (TestPrep.java:65) - Loading confiugration File and setting up the test
+| 2025-03-08 23:09:54 | INFO  | [main] testBase.TestPrep (TestPrep.java:76) - Browser type from config: chrome
+| 2025-03-08 23:09:54 | INFO  | [main] testBase.TestPrep (TestPrep.java:33) - Before Test Starts
+| 2025-03-08 23:10:01 | INFO  | [main] projectLibrary.CredentialsInfo (CredentialsInfo.java:48) - Retrieved value for key 'productName': cell phone
+| 2025-03-08 23:10:03 | INFO  | [main] testBase.TestPrep (TestPrep.java:54) - After each test...
+| 2025-03-08 23:10:03 | INFO  | [main] testBase.TestPrep (TestPrep.java:86) - After class...
+| 2025-03-08 23:10:03 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.jq.Main@664e5dee: 44 ms
+| 2025-03-08 23:10:03 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.FailedReporter@431f1eaf: 1 ms
+| 2025-03-08 23:10:03 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.XMLReporter@713064e8: 7 ms
+| 2025-03-08 23:10:03 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@213c3543: 6 ms
+| 2025-03-08 23:10:03 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@f096f37: 5 ms
+| 2025-03-08 23:10:03 | INFO  | [main] log4testng.Logger (Logger.java:112) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3effd4f3: 0 ms
